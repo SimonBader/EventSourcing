@@ -1,0 +1,8 @@
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain\bin\Debug\ShippingCompany.Domain.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain\bin\Debug\ShippingCompany.Domain.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.csprojResolveAssemblyReference.cache
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.csprojResolveAssemblyReference.cache
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain\obj\Debug\ShippingCompany.Domain.pdb

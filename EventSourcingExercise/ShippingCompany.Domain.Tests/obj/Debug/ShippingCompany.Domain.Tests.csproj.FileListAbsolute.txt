@@ -1,0 +1,16 @@
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.Tests.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.Tests.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleComplete\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.Tests.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.Tests.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\bin\Debug\ShippingCompany.Domain.pdb
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.dll
+C:\Users\simon.bader\Documents\Projects\DQRS_EventSourcing\EventSourcingSampleWithoutChecks\ShippingCompany.Domain.Tests\obj\Debug\ShippingCompany.Domain.Tests.pdb
